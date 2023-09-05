@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "@formily/antd": "^1.x",
+    "@formily/antd-components": "^1.x",
+    "antd": "latest",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "^4.x"
+  }
+}

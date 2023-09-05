@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "@formily/antd": "^1.x",
+    "@formily/antd-components": "^1.x",
+    "antd": "latest",
+    "moment": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "styled-components": "^4.x"
+  },
+  "name": "9f7nhs",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
